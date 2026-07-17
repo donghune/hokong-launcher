@@ -8,7 +8,7 @@
       "description": "호백의 정원 (Hokong) - Fabric 1.21.4",
       "icon": "https://raw.githubusercontent.com/donghune/hokong-launcher/master/app/assets/images/SealCircle.png",
       "version": "1.0.0",
-      "address": "game.donghune.kr:25566",
+      "address": "game.donghune.kr:25571",
       "minecraftVersion": "1.21.4",
       "mainServer": true,
       "autoconnect": true,
