@@ -1,0 +1,20 @@
+# Custom Language File for 호백의 정원 Launcher
+
+[ejs.app]
+title = "호백의 정원"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/donghune/hokong-launcher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/donghune/hokong-launcher"
+supportLink = "https://github.com/donghune/hokong-launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "호백의 정원"
+welcomeDescription = "호백의 정원에 오신 것을 환영합니다. 후원으로 펼쳐지는 다양한 이벤트와 함께 즐기는 호백표 콘텐츠 서버입니다."
+welcomeDescCTA = "몇 번의 클릭만으로 입장할 수 있습니다."
