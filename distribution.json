@@ -141,8 +141,8 @@
           "name": "호백의 정원 모드",
           "type": "FabricMod",
           "artifact": {
-            "size": 322352,
-            "MD5": "bd682c9f10a45f28a0af31308b8bc675",
+            "size": 328799,
+            "MD5": "e5646dc16c313f883cb14eac3e1157c9",
             "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.0/hokong_client-1.0-SNAPSHOT.jar"
           }
         },
