@@ -137,16 +137,6 @@
           }
         },
         {
-          "id": "info.journeymap:journeymap-fabric:1.21.4-6.0.0-beta.47",
-          "name": "JourneyMap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3514383,
-            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd",
-            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar"
-          }
-        },
-        {
           "id": "kr.donghune:hokong_client:1.0-SNAPSHOT",
           "name": "호백의 정원 모드",
           "type": "FabricMod",
