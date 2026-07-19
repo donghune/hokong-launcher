@@ -141,8 +141,8 @@
           "name": "호백의 정원 모드",
           "type": "FabricMod",
           "artifact": {
-            "size": 327241,
-            "MD5": "4fd5bc01210e87cc8e179e1af6d0475a",
+            "size": 327760,
+            "MD5": "360926a0e56dd8c81655e84585f7b88d",
             "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.0/hokong_client-1.0-SNAPSHOT.jar"
           }
         },
@@ -187,6 +187,27 @@
             "MD5": "ebbf3b7957095480c2e703183642be13",
             "path": "config/iris.properties",
             "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.0/iris.properties"
+          }
+        },
+        {
+          "id": "kr.donghune:hokong-models:1@zip",
+          "name": "호백의 정원 모델(ModelEngine) 리소스팩",
+          "type": "File",
+          "artifact": {
+            "size": 107747,
+            "MD5": "ce8711c8c57e3fdb7d5635bce080cf8b",
+            "path": "resourcepacks/hokong-models.zip",
+            "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.0/hokong-models.zip"
+          }
+        },
+        {
+          "id": "hokong-options-seed",
+          "name": "기본 옵션 시드 (리소스팩 자동 활성화, 최초 1회)",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "path": "options.txt",
+            "url": "https://raw.githubusercontent.com/donghune/hokong-launcher/master/dist-assets/options.txt"
           }
         }
       ]
