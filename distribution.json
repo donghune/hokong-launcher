@@ -183,8 +183,8 @@
           "name": "Iris Config (auto-enable shader)",
           "type": "File",
           "artifact": {
-            "size": 155,
-            "MD5": "172c368968da63febc4117895bc0fc22",
+            "size": 20,
+            "MD5": "eea4559e5509da30f6ba86dee2a695a4",
             "path": "config/iris.properties",
             "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.0/iris.properties"
           }
