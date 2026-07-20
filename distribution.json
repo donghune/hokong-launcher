@@ -200,14 +200,14 @@
           }
         },
         {
-          "id": "kr.donghune:hokong-models:3@zip",
+          "id": "kr.donghune:hokong-models:2@zip",
           "name": "호백의 정원 모델(ModelEngine) 리소스팩",
           "type": "File",
           "artifact": {
-            "size": 1096371,
-            "MD5": "2435a1be68f535326dc6abd3f1b393e9",
+            "size": 301818,
+            "MD5": "3900ca07377b8df5549bbb5a4d92a2c7",
             "path": "resourcepacks/hokong-models.zip",
-            "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.1/hokong-models-font.zip"
+            "url": "https://github.com/donghune/hokong-launcher/releases/download/v1.0.1/hokong-models.zip"
           }
         },
         {
