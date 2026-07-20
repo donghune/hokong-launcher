@@ -137,6 +137,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.13",
+          "name": "Plasmo Voice (근접 음성 채팅)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12205387,
+            "MD5": "acd0042cd7c1d03b29af38cf62405d5d",
+            "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/ggHxxQLq/plasmovoice-fabric-26.1-2.1.13.jar"
+          }
+        },
+        {
           "id": "kr.donghune:hokong_client:1.0-SNAPSHOT",
           "name": "호백의 정원 모드",
           "type": "FabricMod",
