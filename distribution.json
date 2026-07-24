@@ -215,7 +215,7 @@
           "name": "기본 옵션 시드 (리소스팩 자동 활성화, 최초 1회)",
           "type": "File",
           "artifact": {
-            "size": 70,
+            "size": 88,
             "path": "options.txt",
             "url": "https://raw.githubusercontent.com/donghune/hokong-launcher/master/dist-assets/options.txt"
           }
